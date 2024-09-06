@@ -1,6 +1,6 @@
 # Grammy_Data_Analysis
 
-![Grammys Logo](https://www.moviedebuts.com/wp-content/uploads/2021/05/ra_ga_logo.png)
+![Grammys Logo](https://github.com/Ian8912/Grammy_Data_Analysis/blob/main/images/Grammy_Awards_Logo.png)
 
 ## Project Overview
 
